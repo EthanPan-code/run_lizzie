@@ -60,7 +60,7 @@
 此啟動器所使用的圖示來自原始的 Lizzie 專案，並根據 MIT 許可證進行授權。詳細資訊請參見 LICENSE 檔案。
 
 ### 關於 Lizzie：
-Lizzie 是一個開源的圍棋（Baduk/Weiqi）分析圖形介面，由 Featurecat 開發。  
+Lizzie 是一個開源的圍棋分析圖形介面，由 Featurecat 開發。  
 它根據 MIT 許可證釋出。更多詳情，請訪問官方 GitHub 頁面：  
 https://github.com/featurecat/lizzie
 
