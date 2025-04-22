@@ -55,7 +55,6 @@ In rare cases, Windows Defender may falsely detect and quarantine `run_lizzie.ex
 ### Notes:
 - This launcher does not include Lizzie itself.
 - No modifications have been made to Lizzie.
-- This project is for convenience only and is not for commercial use.
 
 ### Icon Credit:
 The icon used in this launcher is from the original Lizzie project and is licensed under the MIT License.
