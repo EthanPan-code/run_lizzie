@@ -1,5 +1,9 @@
 # run_lizzie.exe
 
+[English](./README.md) | [繁體中文](./README.zh-TW.md)
+
+---
+
 ## 🧩 Description
 
 This `.exe` file is designed to simplify the process of launching Lizzie.  
